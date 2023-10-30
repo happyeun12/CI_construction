@@ -1,4 +1,4 @@
-vi Jenkinsfile
+
 node{
 	def app
 	stage("Clone repository"){
